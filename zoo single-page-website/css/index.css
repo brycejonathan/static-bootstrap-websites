@@ -1,0 +1,48 @@
+body {
+	padding-top: 56px;
+}
+
+
+#home-section {
+	background: #e74c3c;
+	color: white;
+	padding: 0;
+}
+
+#jumbotron-image {
+	width: 100%;
+}
+
+.jumbotronTextOnImages {
+	position: absolute;
+	width: 100%;
+}
+
+#jumbotron-heading {
+	margin-top: 20%;
+}
+
+.member-container {
+	padding: 5px;
+}
+
+#member-image {
+	margin-bottom: 10px;
+}
+
+.socialImages {
+	width: 50px;
+}
+
+#contact-us {
+	background-color: #000000;
+	color: #FFFFFF;
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+	padding-top: 2rem;
+	padding-bottom: 2rem;
+}
+
+#contact-button {
+	margin-top: 10px;
+}
