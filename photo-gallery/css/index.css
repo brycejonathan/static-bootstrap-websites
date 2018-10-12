@@ -1,0 +1,44 @@
+body {
+	padding-top: 56px;
+}
+
+.carouselImage {
+	width: 100%;
+	height: 100%;
+}
+
+.cardImage {
+	width: 100%;
+}
+
+.card-container {
+	margin-top: 10px;
+}
+
+#post-image {
+	width: 100%;
+	margin-bottom: 35px;
+}
+
+#post-text {
+	margin-bottom: 35px;
+}
+
+#article-image {
+	width: 75%;
+	margin-left: 12.5%;
+}
+
+.sidebar {
+	border-top: 7px solid #00549E;
+}
+
+#popular-postimage {
+	width: 75px;
+}
+
+.popularpost-container {
+	padding-left: 0;
+	padding-right: 0;
+	margin-top: 10px;
+}
